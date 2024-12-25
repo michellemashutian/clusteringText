@@ -35,12 +35,12 @@ python main.py
 
 
 ## Dependencies
-'''
+```
 gensim==4.3.3
 jieba==0.42.1
 numpy==2.2.1
 scikit_learn==1.6.0
-'''
+```
 
 
 ## Contact
