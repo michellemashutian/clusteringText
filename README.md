@@ -1,6 +1,6 @@
 # ClusteringText
 
-A repository for exploring clustering techniques in natural language processing (NLP), with a focus on analyzing and visualizing textual datasets. This project demonstrates the implementation of unsupervised learning methods to group similar text documents effectively.
+A repository for exploring clustering techniques in natural language processing (NLP), with a focus on analyzing textual datasets. This project demonstrates the implementation of unsupervised learning methods to group similar text documents effectively.
 
 ## Features
 
